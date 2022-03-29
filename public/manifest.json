@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Ruth Calendar",
+  "name": "PWA created in REACT course",
   "icons": [
     {
       "src": "favicon.ico",
